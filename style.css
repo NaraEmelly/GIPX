@@ -1,0 +1,49 @@
+body {
+  background-color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.title-screen {
+  background-image: url('background-image.jpg');
+  background-size: cover;
+  padding: 100px;
+}
+
+.title-screen h1 {
+  font-size: 48px;
+  color: #fff;
+}
+
+.game-screen {
+  padding: 40px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.description {
+  padding: 20px;
+}
+
+.options {
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}

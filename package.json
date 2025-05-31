@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^7.1.0",
+    "@google-cloud/text-to-speech": "^6.1.0",
+    "express": "^5.1.0",
+    "howler": "^2.2.4"
+  }
+}
